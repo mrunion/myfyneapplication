@@ -1,0 +1,5 @@
+[Details]
+    Icon = "assets/Icon.png"
+    Name = "My Fyne Application"
+    ID = "com.example.myfyneapplication"
+    Build = 0
