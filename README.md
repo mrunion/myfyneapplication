@@ -8,7 +8,7 @@ The application can read certain values from the environment. Setting these vari
 
 The variables that can be set are:
 
-**FYNE_THEME**: This specifies wether to override the default OS theme with either "dark" or "light" theme variants.
+**FYNE_THEME**: This specifies whether to override the default OS theme with either "dark" or "light" theme variants.
 
 ## Folder Structure ##
 
